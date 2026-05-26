@@ -1,0 +1,12 @@
+target/
+*.pdf
+*.class
+*.jar
+*.war
+*.log
+.idea/
+*.iml
+.settings/
+.project
+.classpath
+.vscode/
